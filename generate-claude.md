@@ -1,4 +1,4 @@
-# Task: Analyze this codebase and generate a hierarchical CLAUDE.md system optimized for Claude Code
+# Task: Analyze this codebase and generate a hierarchical CLAUDE.md system optimized for Claude Code (v1)
 
 ## Critical Context: Claude Code is Different from Other Agents
 
